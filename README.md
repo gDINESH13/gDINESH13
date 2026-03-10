@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Dinesh 
 
 ## About Me
-- 🔭 I'm currently working as Software Developer @ IBM
+- 🔭 I'm currently working as Software Developer.
 - 🌱 I'm currently learning AI and building products. 
 - 👯 I'm am intrested in Full Stack Development building impactful and meaninful products.  
 - 📫 Reach out to me on: [linkedIn/dinesh](https://www.linkedin.com/in/g-dinesh/)
